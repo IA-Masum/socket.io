@@ -1,0 +1,11 @@
+{
+  "name": "socket.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:IA-Masum/socket.io.git",
+  "author": "IA-Masum <iamasum133@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
